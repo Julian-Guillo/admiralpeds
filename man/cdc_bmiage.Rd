@@ -7,13 +7,13 @@
 \format{
 A data frame with 438 rows and 7 variables:
 \describe{
-\item{\code{SEX}}{Sex: 1 = male, 2 = female}
-\item{\code{AGE}}{Age in months}
-\item{\code{L}}{Box-Cox transformation for normality}
-\item{\code{M}}{Median}
-\item{\code{S}}{Coefficient of variation}
-\item{\code{Sigma}}{Sigma}
-\item{\code{P95}}{95th Percentile}
+\item{\code{SEX}}{Sex: 1 = male, 2 = female (\emph{factor})}
+\item{\code{AGE}}{Age in months (\emph{double})}
+\item{\code{L}}{Box-Cox transformation for normality (\emph{double})}
+\item{\code{M}}{Median (\emph{double})}
+\item{\code{S}}{Coefficient of variation (\emph{double})}
+\item{\code{Sigma}}{Sigma (\emph{double})}
+\item{\code{P95}}{95th Percentile (\emph{double})}
 }
 }
 \source{

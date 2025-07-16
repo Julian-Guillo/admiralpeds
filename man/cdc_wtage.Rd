@@ -7,11 +7,11 @@
 \format{
 A data frame with 436 rows and 5 variables:
 \describe{
-\item{\code{SEX}}{Sex: 1 = male, 2 = female}
-\item{\code{AGE}}{Age in months}
-\item{\code{L}}{Box-Cox transformation for normality}
-\item{\code{M}}{Median}
-\item{\code{S}}{Coefficient of variation}
+\item{\code{SEX}}{Sex: 1 = male, 2 = female (\emph{factor})}
+\item{\code{AGE}}{Age in months (\emph{double})}
+\item{\code{L}}{Box-Cox transformation for normality (\emph{double})}
+\item{\code{M}}{Median (\emph{double})}
+\item{\code{S}}{Coefficient of variation (\emph{double})}
 }
 }
 \source{

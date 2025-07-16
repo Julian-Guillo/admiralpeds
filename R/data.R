@@ -3,10 +3,10 @@
 #' day 1856
 #' @format A data frame with 1857 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Day}}{integer Age in days}
-#'   \item{\code{L}}{integer Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Day}}{Age in days (*integer*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -18,10 +18,10 @@
 #' day 1856
 #' @format A data frame with 1857 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Day}}{integer Age in days}
-#'   \item{\code{L}}{integer Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Day}}{Age in days (*integer*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -33,10 +33,10 @@
 #' day 1856
 #' @format A data frame with 1857 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Day}}{integer Age in days}
-#'   \item{\code{L}}{double Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Day}}{Age in days (*integer*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -48,10 +48,10 @@
 #' day 1856
 #' @format A data frame with 1857 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Day}}{integer Age in days}
-#'   \item{\code{L}}{double Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Day}}{Age in days (*integer*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -62,10 +62,10 @@
 #' @description WHO Weight-for-length charts for girls from 45cm to 110cm
 #' @format A data frame with 651 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Length}}{double Length in cm}
-#'   \item{\code{L}}{double Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Length}}{Length in cm (*double*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -76,10 +76,10 @@
 #' @description WHO Weight-for-length charts for boys from 45cm to 110cm
 #' @format A data frame with 651 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Length}}{double Length in cm}
-#'   \item{\code{L}}{double Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Length}}{Length in cm (*double*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -91,10 +91,10 @@
 #' day 1856
 #' @format A data frame with 1857 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Day}}{integer Age in days}
-#'   \item{\code{L}}{double Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Day}}{Age in days (*integer*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -106,10 +106,10 @@
 #' day 1856
 #' @format A data frame with 1857 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Day}}{integer Age in days}
-#'   \item{\code{L}}{double Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Day}}{Age in days (*integer*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -121,10 +121,10 @@
 #' day 1856
 #' @format A data frame with 1857 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Day}}{integer Age in days}
-#'   \item{\code{L}}{double Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Day}}{Age in days (*integer*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -136,10 +136,10 @@
 #' day 1856
 #' @format A data frame with 1857 rows and 4 variables:
 #' \describe{
-#'   \item{\code{Day}}{integer Age in days}
-#'   \item{\code{L}}{double Box-Cox transformation for normality}
-#'   \item{\code{M}}{double Median}
-#'   \item{\code{S}}{double Coefficient of variation}
+#'   \item{\code{Day}}{Age in days (*integer*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -150,11 +150,11 @@
 #' @description Weight-for-age charts, 2 to 20 years
 #' @format A data frame with 436 rows and 5 variables:
 #' \describe{
-#'   \item{\code{SEX}}{Sex: 1 = male, 2 = female}
-#'   \item{\code{AGE}}{Age in months}
-#'   \item{\code{L}}{Box-Cox transformation for normality}
-#'   \item{\code{M}}{Median}
-#'   \item{\code{S}}{Coefficient of variation}
+#'   \item{\code{SEX}}{Sex: 1 = male, 2 = female (*factor*)}
+#'   \item{\code{AGE}}{Age in months (*double*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @keywords metadata
 #' @family metadata
@@ -165,11 +165,11 @@
 #' @description Height-for-age charts, 2 to 20 years
 #' @format A data frame with 436 rows and 5 variables:
 #' \describe{
-#'   \item{\code{SEX}}{Sex: 1 = male, 2 = female}
-#'   \item{\code{AGE}}{Age in months}
-#'   \item{\code{L}}{Box-Cox transformation for normality}
-#'   \item{\code{M}}{Median}
-#'   \item{\code{S}}{Coefficient of variation}
+#'   \item{\code{SEX}}{Sex: 1 = male, 2 = female (*factor*)}
+#'   \item{\code{AGE}}{Age in months (*double*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
@@ -180,13 +180,13 @@
 #' @description BMI-for-age charts, 2 to 20.5 years
 #' @format A data frame with 438 rows and 7 variables:
 #' \describe{
-#'   \item{\code{SEX}}{Sex: 1 = male, 2 = female}
-#'   \item{\code{AGE}}{Age in months}
-#'   \item{\code{L}}{Box-Cox transformation for normality}
-#'   \item{\code{M}}{Median}
-#'   \item{\code{S}}{Coefficient of variation}
-#'   \item{\code{Sigma}}{Sigma}
-#'   \item{\code{P95}}{95th Percentile}
+#'   \item{\code{SEX}}{Sex: 1 = male, 2 = female (*factor*)}
+#'   \item{\code{AGE}}{Age in months (*double*)}
+#'   \item{\code{L}}{Box-Cox transformation for normality (*double*)}
+#'   \item{\code{M}}{Median (*double*)}
+#'   \item{\code{S}}{Coefficient of variation (*double*)}
+#'   \item{\code{Sigma}}{Sigma (*double*)}
+#'   \item{\code{P95}}{95th Percentile (*double*)}
 #' }
 #' @family metadata
 #' @keywords metadata
