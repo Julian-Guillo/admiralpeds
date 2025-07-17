@@ -1,3 +1,9 @@
+# admiralpeds 0.2.1
+
+## Documentation
+
+- Improved documentation on function argument data types and solved equation rendering issue on website (#104)
+
 # admiralpeds 0.2.0
 
 ## Updates of Template program
@@ -8,7 +14,6 @@
 
 - Added CRAN installation instructions to README (#10).
 - Subject based test data (e.g. DM, VS) has been migrated out of `{admiralpeds}` to `{pharmaversesdtm}` (#40)
-- Improved documentation on function argument data types and solved equation rendering issue on website (#104)
 
 # admiralpeds 0.1.0
 
